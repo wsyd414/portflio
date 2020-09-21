@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+
+body{
+    text-align: center;
+    font-weight: normal;  
+    line-height: 2;
+}
+
+h1{ 
+  padding-bottom: 20px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.top_container{
+  background-color: rgb(102, 255, 255);
+}
+
+.mountain_{
+    position: relative;
+} 
+
+.pick{
+    border-radius: 200px;
+}
+
+.cloud__{
+    position: relative;
+    left: 200px;
+}
+.cloud_{
+    position: absolute;
+}
+
+/* #skill0{
+    float: left;
+}
+
+#skill1{
+    float: right;
+} */
+
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+}
+
+#skill0{
+    float: left;
+}
+
+#skill1{
+    float: right;
+}
+
+.clear-row{
+    clear: both;
+}
